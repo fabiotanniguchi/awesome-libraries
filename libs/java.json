@@ -315,6 +315,7 @@
   {"id":"java.testcontainers","imports":["org.testcontainers."],"name":"Testcontainers","repo":"testcontainers/testcontainers-java","tags":["throwaway-db"],"tech":["testing"],"status":"model-ready"},
   {"id":"java.testng","imports":["org.testng."],"name":"TestNG","repo":"cbeust/testng","tags":["unit-testing"],"tech":["testing"],"status":"awaiting-model"},
   {"id":"java.tomakehurst","imports":["com.github.tomakehurst"],"name":"WireMock","repo":"tomakehurst/wiremock","tags":["http-server-mocks"],"tech":["testing"],"status":"awaiting-model"},
+  {"id":"java.transit","imports":["org.onebusaway.gtfs."],"name":"GTFS","repo":"OneBusAway/onebusaway-gtfs-modules","tags":["onebusaway-gtfs"],"tech":["transit"],"status":"awaiting-model"}
   {"id":"java.truth","imports":["com.google.common.truth."],"name":"Truth","repo":"google/truth","tags":["assertions"],"tech":["testing"],"status":"model-ready"},
   {"id":"java.airline","imports":["io.airlift.airline."],"name":"Airline","repo":"airlift/airline","tags":["argument-parsing"],"tech":["utils"],"status":"model-ready"},
   {"id":"java.almanac-converter","imports":["com.hypotemoose.cal."],"name":"Almanac Converter","repo":"hypotemoose/almanac-converter","tags":["date-time"],"tech":["utils"],"status":"model-ready"},
